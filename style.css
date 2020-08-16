@@ -1,0 +1,216 @@
+a:hover {
+    text-decoration: underline;
+}
+
+img {
+    max-width: 100%;
+}
+
+div,
+span,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+a,
+ol,
+ul,
+li,
+figcaption,
+textarea,
+input {
+    font-family: arial;
+}
+
+a {
+    text-decoration: none;
+    font-family: sans;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Telefon Black', Sans-Serif;
+}
+
+/* main css */
+
+.allGoogle {
+    text-align: center;
+}
+
+.header {
+    padding: 100px;
+}
+
+.header img {}
+
+.header h2 {
+    font-size: 36px;
+    color: #0000009e;
+    margin: 0;
+    padding-top: 20px;
+}
+
+.header h5 {
+    font-size: 24px;
+    font-family: sans;
+    color: #000000ba;
+    padding: 10px;
+}
+
+.formDiv {
+    width: 446px;
+    margin: auto;
+    padding: 47px 62px;
+    background: #f7f7f7 none repeat scroll 0 0;
+    border-left: 1px solid #dfdfdf;
+    border-radius: 5px;
+    box-shadow: 1px 3px 2px #cdcdcd;
+    margin-top: -100px;
+}
+
+.formDiv img {
+    display: block;
+    margin: auto;
+    border-radius: 50%;
+    width: 100px;
+}
+
+.formDiv input {
+    width: 100%;
+    padding: 7px;
+    border: 1px solid #00000036;
+    margin: 8px 0;
+    margin-top: 25px;
+}
+
+.formDiv .btn {
+    text-decoration: none;
+}
+
+.nedhlp {
+    display: block;
+    font-size: 13px;
+    font-family: sans;
+    margin-top: 8px;
+    margin-left: 257px;
+}
+
+.bottomDiv {}
+
+.bottomDiv a {
+    padding: 14px 0;
+    display: inline-block;
+}
+
+.bottomDiv p {
+    font-family: sans;
+    font-size: 14px;
+    color: #000000bf;
+    margin: 3px;
+}
+
+.bottomDiv img {}
+
+.footerDiv {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 22px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.leftFooter {}
+
+.leftFooter a {
+    padding: 10px;
+    font-size: 12px;
+    color: #0000009c;
+}
+
+.rightFooter {}
+
+.rightFooter img {}
+
+.rightFooter select {
+    font-size: 13px;
+}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
+
+. {}
